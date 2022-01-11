@@ -1,0 +1,734 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_send.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\logo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_classic_rendang.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\classic_rendang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tikka.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\tikka.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mylogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\mylogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_mylogo.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\mylogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_haka.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\haka.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_downtoup.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\anim\\downtoup.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wings.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\wings.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_order_details_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_order_details_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_order_details_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_order_details_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_order_details_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_order_details_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_italiaone.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\italiaone.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soup.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\soup.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_garden_aglio_olio.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\garden_aglio_olio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lasagna.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\lasagna.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_finallogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\finallogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nuggets.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\nuggets.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_order_page.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\activity_order_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cthree.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\cthree.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_eatitlogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\eatitlogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logox.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\logox.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_eatitlogo_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\eatitlogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_finallogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\finallogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chineselogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\chineselogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_eatitlogo.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\eatitlogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mylogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\mylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_broast.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\broast.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spicy_aglio_olio.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\spicy_aglio_olio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fishone.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\fishone.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_club.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\club.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_order_details_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_order_details_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beefburger.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\beefburger.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-mdpi\\logo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_eatitlogo_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\eatitlogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightgreenbtns.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\lightgreenbtns.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_friedrice.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\friedrice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_continentallogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\continentallogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mylogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\mylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sea.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\fragment_sea.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mf_rice.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\mf_rice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mylogo_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\mylogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fast_food.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\fragment_fast_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in_page.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\activity_sign_in_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_continental.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\fragment_continental.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roll.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\roll.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pasta.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\pasta.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fish.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\fish.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pastanew.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\pastanew.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-mdpi\\logo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fingerfish.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\fingerfish.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_prawnsoup.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\prawnsoup.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_mylogo_round.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\mylogo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medifoods_fusion_spaghetti.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\medifoods_fusion_spaghetti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\logo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_traditional.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\traditional.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chicken.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\chicken.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_design.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\menu_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up_page.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\activity_sign_up_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spaghetti_bolognese.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\spaghetti_bolognese.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoz.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\logoz.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-hdpi\\logo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mylogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\mylogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_eat_it.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\logo_eat_it.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sajjione.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\sajjione.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zinger.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\zinger.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kabab.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\kabab.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_order_details_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_order_details_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_order_details_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_order_details_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mylogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\mylogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-mdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pastaone.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\pastaone.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mf_special_fried_rice.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\mf_special_fried_rice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-hdpi\\logo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizza.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_malaiboti.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\malaiboti.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_darkgreenbtns.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\darkgreenbtns.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_burgerone.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\burgerone.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logot.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\logot.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_finallogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\finallogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\logo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_eatitlogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\eatitlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-mdpi\\logo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_eatitlogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\eatitlogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mylogo_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\mylogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shrimp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\shrimp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_curry_chic.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\curry_chic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_order_details_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_order_details_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_layout.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\order_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_continental.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\continental.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_eatitlogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\eatitlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_italian.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\fragment_italian.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittextdesign.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\edittextdesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ctwo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\ctwo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_applogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-hdpi\\applogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chinese.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\fragment_chinese.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chinese.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mylogo_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xhdpi\\mylogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beef.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\beef.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_uptodown.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\anim\\uptodown.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_options_page.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\activity_login_options_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_eatitlogo_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxhdpi\\eatitlogo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_eatitlogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\eatitlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_share.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_biryani.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\biryani.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_eatitlogo_round.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\eatitlogo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogdesign.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\dialogdesign.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fries.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\fries.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoy.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\logoy.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mylogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\mylogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cfive.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\cfive.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coneone.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\coneone.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_karahi.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\karahi.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nasi_lemak_veg.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\nasi_lemak_veg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fishlogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\fishlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roasted_quarter_chicken_with_special_sauces.jpg.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\roasted_quarter_chicken_with_special_sauces.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sushi.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\sushi.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logos.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\logos.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_event_available_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_event_available_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_eatitlogo_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\eatitlogo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\mipmap-hdpi\\logo_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_event_available_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_event_available_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pastalogo.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\pastalogo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_material_red.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\background_material_red.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_burger.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\RestaurantEatItApp\\app\\src\\main\\res\\drawable\\burger.png"
+    }
+]
