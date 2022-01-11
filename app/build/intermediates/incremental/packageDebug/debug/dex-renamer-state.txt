@@ -1,0 +1,4 @@
+#Sun Jan 09 02:29:50 CST 2022
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\Food-Ordering-App-master\\RestaurantEatItApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

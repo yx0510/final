@@ -1,0 +1,55 @@
+com/example/homepc/restauranteatitapp/SignUpPage.java
+ com.example.homepc.restauranteatitapp.SignUpPage
+ com.example.homepc.restauranteatitapp.SignUpPage$1
+com/example/homepc/restauranteatitapp/SignInPage.java
+ com.example.homepc.restauranteatitapp.SignInPage
+ com.example.homepc.restauranteatitapp.SignInPage$1
+com/example/homepc/restauranteatitapp/DatabaseHelper.java
+ com.example.homepc.restauranteatitapp.DatabaseHelper
+com/example/homepc/restauranteatitapp/SeaFragment.java
+ com.example.homepc.restauranteatitapp.SeaFragment
+com/example/homepc/restauranteatitapp/FastfoodClass.java
+ com.example.homepc.restauranteatitapp.FastfoodClass
+com/example/homepc/restauranteatitapp/SeaClass.java
+ com.example.homepc.restauranteatitapp.SeaClass
+com/example/homepc/restauranteatitapp/BuildConfig.java
+ com.example.homepc.restauranteatitapp.BuildConfig
+com/example/homepc/restauranteatitapp/ItalianAdapter.java
+ com.example.homepc.restauranteatitapp.ItalianAdapter
+ com.example.homepc.restauranteatitapp.ItalianAdapter$1
+ com.example.homepc.restauranteatitapp.ItalianAdapter$2
+ com.example.homepc.restauranteatitapp.ItalianAdapter$3
+com/example/homepc/restauranteatitapp/MainFragment.java
+ com.example.homepc.restauranteatitapp.MainFragment
+com/example/homepc/restauranteatitapp/FastFoodAdapter.java
+ com.example.homepc.restauranteatitapp.FastFoodAdapter
+ com.example.homepc.restauranteatitapp.FastFoodAdapter$1
+ com.example.homepc.restauranteatitapp.FastFoodAdapter$2
+ com.example.homepc.restauranteatitapp.FastFoodAdapter$3
+com/example/homepc/restauranteatitapp/Splash.java
+ com.example.homepc.restauranteatitapp.Splash
+com/example/homepc/restauranteatitapp/OrderPage.java
+ com.example.homepc.restauranteatitapp.OrderPage
+com/example/homepc/restauranteatitapp/FastFoodFragment.java
+ com.example.homepc.restauranteatitapp.FastFoodFragment
+com/example/homepc/restauranteatitapp/LoginOptionsPage.java
+ com.example.homepc.restauranteatitapp.LoginOptionsPage
+ com.example.homepc.restauranteatitapp.LoginOptionsPage$1
+ com.example.homepc.restauranteatitapp.LoginOptionsPage$2
+com/example/homepc/restauranteatitapp/OrderClass.java
+ com.example.homepc.restauranteatitapp.OrderClass
+com/example/homepc/restauranteatitapp/OrderAdapter.java
+ com.example.homepc.restauranteatitapp.OrderAdapter
+com/example/homepc/restauranteatitapp/SeaAdapter.java
+ com.example.homepc.restauranteatitapp.SeaAdapter
+ com.example.homepc.restauranteatitapp.SeaAdapter$1
+ com.example.homepc.restauranteatitapp.SeaAdapter$2
+ com.example.homepc.restauranteatitapp.SeaAdapter$3
+com/example/homepc/restauranteatitapp/ItalianClass.java
+ com.example.homepc.restauranteatitapp.ItalianClass
+com/example/homepc/restauranteatitapp/ItalianFragment.java
+ com.example.homepc.restauranteatitapp.ItalianFragment
+com/example/homepc/restauranteatitapp/MainActivity.java
+ com.example.homepc.restauranteatitapp.MainActivity
+ com.example.homepc.restauranteatitapp.MainActivity$1
+ com.example.homepc.restauranteatitapp.MainActivity$2
