@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.homepc.restauranteatitapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:5:5-27:19
+12        android:allowBackup="true"
+12-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/logo_launcher_foreground"
+14-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:7:9-56
+15        android:label="@string/app_name"
+15-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/logo_launcher_round"
+16-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:9:9-56
+17        android:supportsRtl="true"
+17-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity android:name="com.example.homepc.restauranteatitapp.Splash" >
+20-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:12:9-18:20
+20-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:12:19-41
+21            <intent-filter>
+21-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:13:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:14:17-69
+22-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:16:17-77
+24-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity android:name="com.example.homepc.restauranteatitapp.LoginOptionsPage" />
+27-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:19:9-54
+27-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:19:19-51
+28        <activity android:name="com.example.homepc.restauranteatitapp.SignInPage" />
+28-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:20:9-48
+28-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:20:19-45
+29        <activity android:name="com.example.homepc.restauranteatitapp.SignUpPage" />
+29-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:21:9-48
+29-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:21:19-45
+30        <activity
+30-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:22:9-25:47
+31            android:name="com.example.homepc.restauranteatitapp.MainActivity"
+31-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:23:13-41
+32            android:label="@string/title_activity_main"
+32-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:24:13-56
+33            android:theme="@style/AppTheme" />
+33-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:25:13-44
+34        <activity android:name="com.example.homepc.restauranteatitapp.OrderPage" />
+34-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:26:9-56
+34-->C:\Users\User\Desktop\RestaurantEatItApp\app\src\main\AndroidManifest.xml:26:19-44
+35
+36        <meta-data
+36-->[com.android.support:design:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\125d3ff0b027c78d90520e25bf5a5f2c\design-26.1.0\AndroidManifest.xml:26:9-28:38
+37            android:name="android.support.VERSION"
+37-->[com.android.support:design:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\125d3ff0b027c78d90520e25bf5a5f2c\design-26.1.0\AndroidManifest.xml:27:13-51
+38            android:value="26.1.0" />
+38-->[com.android.support:design:26.1.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\125d3ff0b027c78d90520e25bf5a5f2c\design-26.1.0\AndroidManifest.xml:28:13-35
+39        <meta-data
+39-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f27b791f42bc0a338f9d8bea31504c56\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+40            android:name="android.arch.lifecycle.VERSION"
+40-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f27b791f42bc0a338f9d8bea31504c56\runtime-1.0.0\AndroidManifest.xml:26:13-58
+41            android:value="27.0.0-SNAPSHOT" />
+41-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f27b791f42bc0a338f9d8bea31504c56\runtime-1.0.0\AndroidManifest.xml:27:13-44
+42    </application>
+43
+44</manifest>
